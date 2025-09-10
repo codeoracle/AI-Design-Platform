@@ -26,7 +26,7 @@ export default function Features01() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="max-w-3xl mx-auto text-center pb-12">
             <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Go further than the speed of thought</h2>
-            <p className="text-lg text-zinc-500">AI reads and understands your designs, and with nothing more than a single line of feedback, perform complex actions autonomously.</p>
+            <p className="text-lg text-zinc-500">AI reads and understands your designs, and with nothing more than a single line of feedback, perform complex actions autonomously</p>
           </div>
           <div>
             {/* Tabs buttons */}
